@@ -5,3 +5,7 @@ pets:
     weight: 25 # kg
     features:
       - "든든하고 멋진 대형견"
+  - name: "말랑"
+    type: "cat"
+    features:
+      - "귀엽고 사랑스러운 반려묘"
