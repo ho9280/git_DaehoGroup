@@ -1,0 +1,11 @@
+소스트리 기능 터미널 명령어 설명
+스테이지에 올리기 git add <파일명> 또는 git add .변경된 파일을 커밋 대기선에 올림
+커밋 (Commit) git commit -m "메시지" 대기선에 올라온 파일들을 버전으로 저장
+푸시 (Push) git push origin <브랜치명> 로컬 커밋들을 GitHub 서버로 업로드
+패치 (Fetch) git fetch 원격 저장소의 최신 변경 사항 "확인만" 하기
+풀 (Pull) git pull 원격 저장소의 최신 버전을 가져와서 합치기
+브랜치 생성 git branch <브랜치명> 새로운 가지(브랜치) 만들기
+브랜치 이동 (체크아웃) git switch <브랜치명> (또는 checkout) 작업할 브랜치로 전환하기
+병합 (Merge) git merge <합칠브랜치명> 다른 브랜치의 내용을 현재 브랜치로 병합
+되돌리기 (Discard) git restore <파일명> 아직 커밋하지 않은 파일의 변경 사항 취소
+스태시 (Stash) git stash 작업 중인 미완성 코드를 임시 저장소에 키핑
