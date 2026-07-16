@@ -9,3 +9,7 @@ pets:
     type: "cat"
     features:
       - "귀엽고 사랑스러운 반려묘"
+  - name: "3호"
+    type: "muscovy duck"
+    features:
+      - "산책오리 (요즘 더워서 휴식 중)"
