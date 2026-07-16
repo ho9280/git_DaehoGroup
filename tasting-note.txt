@@ -1,7 +1,7 @@
 nose:
 
-taste:
+taste: sweet, chewing
 
 finish:
 
-total:
+total: not bad, soso
