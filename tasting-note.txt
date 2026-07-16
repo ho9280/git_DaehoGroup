@@ -1,7 +1,7 @@
-nose: 코
+nose: cabbage
 
 taste: sweet, chewing
 
-finish: 끝내다
+finish: spicy
 
-total: not bad, soso
+total: not bad, soso, lack lard
