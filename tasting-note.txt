@@ -1,7 +1,7 @@
-nose:
+nose: 코
 
 taste:
 
-finish:
+finish: 끝내다
 
 total:
