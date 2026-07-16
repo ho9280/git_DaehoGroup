@@ -1,0 +1,25 @@
+# [괴도 키드 예고장] 주말 담양 행 열차에서 발송됨
+target: "Daae's Local Repository"
+status: "Stolen Successfully"
+
+thief_info:
+  name: "Phantom Thief Kid"
+  alias: "짭광수 2회차"
+  current_location: "Unknown (아마도 당신의 원격 저장소?)"
+
+notice:
+  message: "레이디 & 젠틀맨! 보름달이 뜨는 밤, 당신의 소중한 소스코드를 예고대로 모셔갔습니다."
+  hint: "이 파일의 알맹이가 어디로 갔는지 궁금하다면... git log를 뒤져보시지!"
+  where_is_it:
+    - "main 브랜치 뒤편"
+    - "origin/somin 유령 브랜치 사이"
+    - "사실은 당신의 커밋 내역 속에 숨겨두었답니다 😉"
+
+next_target:
+  item: "7월 24일 금요일 학식의 두부참깨무침"
+  reason: "참기름 향이 가득한 위험한 보석이더군요. 천식 방지를 위해 제가 미리 훔쳐두겠습니다."
+  action: "실은 참기름 트리거 방어용 예고장입니다."
+
+riddle:
+  question: "내가 훔쳐간 것은 단순한 YAML 파일일까요, 아니면 당신의 깃 실습 점수일까요?"
+  clue: "git push -u origin zzab-kwangsoo_2nd_DA 명령어를 치는 순간, 진실이 밝혀집니다."
