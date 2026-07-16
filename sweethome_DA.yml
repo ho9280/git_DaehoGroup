@@ -1,0 +1,7 @@
+# 스위트홈 분석 대상 반려동물 목록
+pets:
+  - name: "바담"
+    type: "dog"
+    weight: 25 # kg
+    features:
+      - "든든하고 멋진 대형견"
