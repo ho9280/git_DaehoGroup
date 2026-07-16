@@ -1,7 +1,9 @@
-nose: 코
-
-taste: sweet, chewing
-
-finish: 끝내다
-
-total: not bad, soso
+nose: 코 ..
+..
+taste: sweet, chewing ..
+.
+finish: 끝내다 ..
+..
+total: not bad, soso ..
+오늘 먹은 제육의 점수는요 10점 만점 중에 5점입니다 왜냐하면 내가 만든 제육이
+더 맛이 있었기 때문입니다.
