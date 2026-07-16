@@ -1,7 +1,7 @@
 nose: 코
 
-taste:
+taste: sweet, chewing
 
 finish: 끝내다
 
-total:
+total: not bad, soso
